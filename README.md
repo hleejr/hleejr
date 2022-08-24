@@ -3,17 +3,19 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <!-- About Me -->
-name: Erwin Lejeune
-located_in: Odense, Denmark
-from: Nantes (France)
-job: Navigation and Control Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Coalescent Mobile Robotics
+```yaml
+name: Henry Bowe
+age: 25
+living_in: North Carolina
+from: Washington, D.C.
+job: Lead Technical Instructor and Curriculum Designer
+education: ["Bachelor's in Computer Science"]
+company: Hack the Hood
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Graph Theory", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["microROS"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+fields_of_interests: ["Sports Analytics", "Sports Statistics", "Data Science", "Data Engineering", "Machine & Deep Learning", "Artificial Intelligence", "Big Data Analytics"]
+currently_learning: ["SQL"]
+hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime", "Reading Manga"]
+```
 
 <table>
 <tr>
