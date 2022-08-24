@@ -25,7 +25,8 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <a href="https://www.linkedin.com/in/henry-bowe-jr-31498916a/">
   <img alt="Henry's LinkedIN" height=25 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<a href="https://open.spotify.com/artist/3a2MOUACdo47MldHZfukSd?si=YGmmYXL1S8u0mfIKqqt13A">
+  <img src="https://img.shields.io/badge/-My%20Music%20on%20Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Henry's Artist Spotify"></a>
 <table>
 <tr>
 <td width="50%" valign="top">
