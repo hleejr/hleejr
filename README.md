@@ -2,6 +2,20 @@
 <h1 align="center">"Hello World." ⎯ I'm <a href="https://www.blackcater.win/" target="_blank">Henry Bowe</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
+<!-- Social Links -->
+<a href="https://www.instagram.com/upt_henny/">
+  <img alt="Henry's Instagram" height=25 src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://twitter.com/henry_bowe">
+  <img alt="Henry's Twitter" height=25 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/henry-bowe-jr-31498916a/">
+  <img alt="Henry's LinkedIN" height=25 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/artist/3a2MOUACdo47MldHZfukSd?si=YGmmYXL1S8u0mfIKqqt13A">
+  <img src="https://img.shields.io/badge/-My%20Music%20on%20Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Henry's Artist Spotify" height=25>
+</a>
+
 <!-- About Me -->
 ```yaml
 name: Henry Bowe
@@ -16,17 +30,6 @@ currently_learning: ["SQL"]
 hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime", "Reading Manga"]
 ```
 
-<a href="https://www.instagram.com/upt_henny/">
-  <img alt="Henry's Instagram" height=25 src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://twitter.com/henry_bowe">
-  <img alt="Henry's Twitter" height=25 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/henry-bowe-jr-31498916a/">
-  <img alt="Henry's LinkedIN" height=25 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://open.spotify.com/artist/3a2MOUACdo47MldHZfukSd?si=YGmmYXL1S8u0mfIKqqt13A">
-  <img src="https://img.shields.io/badge/-My%20Music%20on%20Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Henry's Artist Spotify" height=25></a>
 <table>
 <tr>
 <td width="50%" valign="top">
