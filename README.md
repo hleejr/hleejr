@@ -1,4 +1,5 @@
-<h1 align="center">"Hello World, I'm <a href="https://www.blackcater.win/" target="_blank">Henry Bowe</a> <img
+<!-- Welcoming -->
+<h1 align="center">"Hello World". I'm <a href="https://www.blackcater.win/" target="_blank">Henry Bowe</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <!-- Continuous Improvement Programme - CIP -->
