@@ -16,7 +16,7 @@ currently_learning: ["SQL"]
 hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime", "Reading Manga"]
 ```
 
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<center><a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
@@ -27,7 +27,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a></center>
 
 <table>
 <tr>
