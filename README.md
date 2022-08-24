@@ -33,8 +33,8 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 ```
 
 <!-- Languages and Tools -->
-<h2 align="center">Languages and Tools I've Used 💻</h2>
-<p align="center"> 
+<h2 align="left">Languages and Tools I've Used 💻</h2>
+<p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
