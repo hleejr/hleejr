@@ -25,7 +25,6 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <a href="https://www.linkedin.com/in/henry-bowe-jr-31498916a/">
   <img alt="Henry's LinkedIN" height=25 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br>
 
 <table>
 <tr>
