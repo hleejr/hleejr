@@ -16,8 +16,8 @@ currently_learning: ["SQL"]
 hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime", "Reading Manga"]
 ```
 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="center" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/upt_henny/">
+  <img align="left" alt="Henry's Instagram" width="22px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
