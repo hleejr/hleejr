@@ -11,7 +11,6 @@ from: Washington, D.C.
 job: Lead Technical Instructor and Curriculum Designer
 education: ["Bachelor's in Computer Science"]
 company: Hack the Hood
-
 fields_of_interests: ["Sports Analytics", "Sports Statistics", "Data Science", "Data Engineering", "Machine & Deep Learning", "Artificial Intelligence", "Big Data Analytics"]
 currently_learning: ["SQL"]
 hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime", "Reading Manga"]
