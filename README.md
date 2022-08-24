@@ -76,6 +76,9 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="django" width="40" height="40"/>
+  </a>
 </p>
 
 <table>
