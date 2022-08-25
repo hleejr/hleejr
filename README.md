@@ -97,19 +97,19 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <a href="https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138">
   <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png"> <br> DB Legends, BigQuery, and Trees </img>
 </a>
-  <br>
+  <hr>
 <a href="https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0">
   <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg"> <br> Heart for Dart </img>
 </a>
-  <br>
+  <hr>
 <a href="https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc">
   <img alt="Medium Post" src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg"> <br> Raising a Developer </img>
 </a>
-  <br>
+  <hr>
 <a href="https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4">
   <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png"> <br> Understanding Web Storage </img>
 </a>
-  <br>
+  <hr>
 <a href="https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7">
   <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png"> <br> Pass the Aux! </img>
 </a>
