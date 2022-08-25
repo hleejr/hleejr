@@ -94,31 +94,16 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <h3 align="center"> My Medium Blog Posts </h3>
 
 <!-- blog starts -->
-* [DB Legends, BigQuery, and Trees](https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138) 
-<br/> 
-<sub>
-  <img src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" />
-</sub>
-* [Heart for Dart](https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0) 
-<br/> 
-<sub>
-  <img src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" />
-</sub>
-* [Raising a Developer](https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc) 
-<br/> 
-<sub>
-  <img src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" />
-</sub>
-* [Understanding Web Storage](https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4) 
-<br/> 
-<sub>
-  <img src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" />
-</sub>
-* [Pass the Aux!](https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7) 
-<br/> 
-<sub>
-  <img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" />
-</sub>
+[DB Legends, BigQuery, and Trees](https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138) 
+<img src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" />
+[Heart for Dart](https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0) 
+<img src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" />
+[Raising a Developer](https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc) 
+<img src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" />
+[Understanding Web Storage](https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4) 
+<img src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" />
+[Pass the Aux!](https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7) 
+<img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" />
 <!-- blog ends -->
      
 <h3 align="center"> Dev Setup </h3>
