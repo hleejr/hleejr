@@ -139,7 +139,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 
 </table>
 <h1></h1>
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />[linktree]
      
 [linktree]: https://linktr.ee/knowbodyknows
 
