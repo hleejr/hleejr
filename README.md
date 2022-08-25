@@ -139,22 +139,9 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 
 </table>
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width="350" align="right" /></a>
-
-</div>
-
-<!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/X7G5fq3"><img max-height="400" width="350" src="https://i.imgur.com/X7G5fq3.jpg"></a>
-<!-- programmer_humor_img ends -->
-
-![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
-
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
      
-[linktree]: https://linktr.ee/lifeparticle
-[gist]: https://gist.github.com/lifeparticle
-[aurthohin]: https://github.com/lifeparticle/Aurthohin
+[linktree]: https://linktr.ee/knowbodyknows
 
 <!--
 **hleejr/hleejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
