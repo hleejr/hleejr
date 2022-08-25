@@ -121,10 +121,12 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <td width="50%" valign="top">
 
 <h3 align="center"> Github Statistics </h3>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hleejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Git Streaks](http://github-readme-streak-stats.herokuapp.com?user=hleejr&count_private&theme=highcontrast&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight)
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hleejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Github Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=hleejr&count_private&theme=highcontrast&hide_border=true" alt="Github Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight" alt="Github Top Languages" />
+</p>
   
 <h3 align="center"> Open Source Projects </h3>
      
@@ -139,7 +141,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width="350" align="right" /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=highcontrast&hide_border=true" width="350" /></a>
+
 </div>
 
 <!-- programmer_humor_img starts -->
