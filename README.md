@@ -123,8 +123,8 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <h3 align="center"> Github Statistics </h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hleejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Git Streaks](http://github-readme-streak-stats.herokuapp.com?user=hleejr&count_private&theme=highcontrast&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight)
-![Git Streaks](http://github-readme-streak-stats.herokuapp.com?user=hleejr&theme=highcontrast&hide_border=true)
   
 <h3 align="center"> Open Source Projects </h3>
      
