@@ -122,8 +122,8 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <h3 align="center"> Github Statistics </h3>
 
 <p align="center">
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hleejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight)
+  <a href="https://github-readme-stats.vercel.app/api?username=hleejr&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight"/>
 </p>
   
 <h3 align="center"> Open Source Projects </h3>
