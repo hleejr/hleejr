@@ -92,7 +92,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <td width="50%" valign="top">
 
 <h3 align="center"> My Medium Blog Posts </h3>
-
+  <p align="center">
 <!-- blog starts -->
 [DB Legends, BigQuery, and Trees](https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138)
   <br>
@@ -113,6 +113,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 [Pass the Aux!](https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7)
   <br>
 <img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" />
+  </p>
 <!-- blog ends -->
 
 </td>
@@ -121,9 +122,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <h3 align="center"> Github Statistics </h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hleejr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/hleejr/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/hleejr/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&theme=tokyonight)
 
 <h3 align="center"> Open Source Projects </h3>
      
