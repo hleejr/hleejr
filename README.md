@@ -83,7 +83,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 
 <!-- Funny GIF -->
 <p align="center">
-  <img height="100%" weight="100%" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <img height=500 width=500 src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
 <table>
