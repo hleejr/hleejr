@@ -114,46 +114,47 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   <br>
 <img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" />
 <!-- blog ends -->
-     
-<h3 align="center"> Dev Setup </h3>
-     
-| Project Name    |
-| ----------- |
-| [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)                         |
-| [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)                           |
-| [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)                             |
-| [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers) |
-<!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 
 </td>
 
      
 <td width="50%" valign="top">
 
-<h3 align="center"> Bots </h3>
-     
-| Bot Name    | Status      |
-| ----------- | ----------- |
-| [Profile Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
-| [Twitter Tweet Bot](https://github.com/lifeparticle/twitter-tweet-bot/blob/main/build_json.py)   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
-
-  
-<h3 align="center"> Cheatsheets </h3>
-     
-| URL      |
-| ----------- |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                            |
-| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)                        |
-| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                            |
-| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                                |
-| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                            |
-| [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                        |
-| [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)                              |
-| [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets)                    |
-| [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)                        |
-| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                    |
-| [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                              |
-| [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)  |
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
      
 <h3 align="center"> Miscellaneous </h3>
 
