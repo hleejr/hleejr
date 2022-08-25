@@ -92,7 +92,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <td width="50%" valign="top">
 
 <h3 align="center"> My Medium Blog Posts </h3>
-  <p align="center">
+
 <!-- blog starts -->
 <a href="https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138">
   <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png"> <br> DB Legends, BigQuery, and Trees </img>
@@ -113,7 +113,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <a href="https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7">
   <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png"> <br> Pass the Aux! </img>
 </a>
-  </p>
+
 <!-- blog ends -->
 
 </td>
