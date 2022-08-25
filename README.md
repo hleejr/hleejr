@@ -95,7 +95,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   <p align="center">
 <!-- blog starts -->
 <a href="https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138">
-  <img title="DB Legends, BigQuery, and Trees" alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png"> DB Legends, BigQuery, and Trees </img>
+  <img title="DB Legends, BigQuery, and Trees" alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png"> <br> DB Legends, BigQuery, and Trees </img>
 </a>
   <br>
 [Heart for Dart](https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0)
