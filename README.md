@@ -94,15 +94,24 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <h3 align="center"> My Medium Blog Posts </h3>
 
 <!-- blog starts -->
-[DB Legends, BigQuery, and Trees](https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138) 
+[DB Legends, BigQuery, and Trees](https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138)
+  <br>
 <img src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" />
-[Heart for Dart](https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0) 
+  <br>
+[Heart for Dart](https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0)
+  <br>
 <img src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" />
-[Raising a Developer](https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc) 
+  <br>
+[Raising a Developer](https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc)
+  <br>
 <img src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" />
-[Understanding Web Storage](https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4) 
+  <br>
+[Understanding Web Storage](https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4)
+  <br>
 <img src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" />
-[Pass the Aux!](https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7) 
+  <br>
+[Pass the Aux!](https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7)
+  <br>
 <img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" />
 <!-- blog ends -->
      
