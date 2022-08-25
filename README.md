@@ -121,7 +121,6 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <td width="50%" valign="top">
 
 <h3>Open source projects</h3>
-<table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -154,7 +153,6 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
      
 <h3 align="center"> Miscellaneous </h3>
 
