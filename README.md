@@ -80,7 +80,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
     <img src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" alt="django" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="60" height="40"/>
   </a>
 </p>
 
