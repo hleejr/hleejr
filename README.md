@@ -90,13 +90,8 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 </p>
 
 <!-- Published Blog Post -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <h3 align="center"> My Medium Blog Posts </h3>
 
-<!-- blog starts -->
 <table><tr>
   <td>
     <h3>DB Legends, BigQuery, and Trees</h3>
@@ -154,11 +149,9 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 
 </table>
 <!-- blog ends -->
+<hr>
 
-</td>
-     
-<td width="50%" valign="top">
-
+<!-- Github Stats -->
 <h3 align="center"> Github Statistics </h3>
   
 <p align="center">
@@ -166,17 +159,14 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   <img src="http://github-readme-streak-stats.herokuapp.com?user=hleejr&count_private&theme=highcontrast&hide_border=true" alt="Github Streaks" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hleejr&count_private=true&theme=tokyonight" alt="Github Top Languages" />
 </p>
-  
+
+<hr>
+
 <h3 align="center"> Open Source Projects </h3>
      
 | Project Name | Description |
 | ------------ | ----------- |
 | Sports Data & Artificial Intelligence: Predicting Hall of Famers | Coming Soon!
-
-</td>
-</tr>
-
-</table>
 
 <hr>
 
