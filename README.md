@@ -80,7 +80,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
     <img src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" alt="django" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAiCAMAAAA9FerRAAAAmVBMVEX/////mQD/kgD/lAD/lgD/kAAAFSslLz4VIjQhKzsaJjcMHDAIGi7T1NYAESg+RVEAAB8ACiUAABz5+fr/2rr/ozibnqN9gYfp6uva291RV2FpbXWoqq62uLtydn1ITlmPkpc0PEnGx8r/+vX/t3D/4sr/1K3/69r/tGcAAAxbYGmFiY//vHv/q07/yJT/zqH/8eb/nyf/wol6tDksAAAC0UlEQVQ4jd1T23aqMBCNQO4XjSAXEdRWrUWs1f//uDNJwFV7XF09r2c/kDDMnpm9SRDyeMmLtsi126ZalyFYah02qNKVD+Rt3eYv6I7TjDDGBLNToOh3w0J4TuZ54L0bCUsxhywpCakGnp5LS5dLaqjYwqui1resDOVLn5AztkGoVdys23pqZ6uRSFc+UzNKGkgQsnGvK8kp8QmdMBpVM0p9WpqPCu5YSdEi1Cj3hAJsyY2finDiPrL8O2FEZfgaKlrqRXLVUOmm0kQU47zPUVo+hWXJncjS2rKVtZeowEltvZDvvZo8b6qBuGJOZKOMmz0USmFZM6ro5kFftbWKGGvBxqlv7ESeVA2zu95WdN6UqRGcGbZJR56ecybqol2rQERbDiKnCvQR1YBEOYzYdFYJKtVwQBDlrPCbdBaIG2bL1DpHO1mAxNmYidKmtpRvh0EtleiBqI1sNLHOF7lFS7F+0AUHJAht1HBAYKihmBJFrjofmZX22/8rhAqjvxBKQ6gT1PhNK7adcumpFSdhqweiP0cO5Sz857I2QNTDEJz4W7DmgoeyRRH4KzIqQ62kauoOb9GKwXk4l7M0+ESHA1MTo9bdUko+v1+szjKm3B0q5yYEl9ZOg4538h4G08JIuFaMqC8X8mVTnBrXoRp+blqNu+EOe+qqqOvTF9p/itdDf14sjh+v6HL4F9oOA6I4iXr0ia/7XxMv/SXb77M+Tm5QZYEXv6cGXOOLW3ocXX898OsNUidRaJVFcYx3v2mbnTHegTw8ljniSRLF/f71p17ZEXzB0PCA+3t0f40mwMWLW/b5hPSZ9VccJwk+utJn/DUnu0bJxJPjxfEG7r057LPL7biAGHxL8PnNt8a3x7L7M44nHkkcx1EA7JIQinZvIe9j8fdEH1cc8h4BY5wPd/3ZUws+D7sJeAB6AqCzE/6Ta1/8ewNluyOg/7jsn5mF0B+0cjlHbq/71gAAAABJRU5ErkJggg==" alt="django" width="40" height="40"/>
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
   </a>
 </p>
 
