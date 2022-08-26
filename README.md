@@ -97,26 +97,62 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <h3 align="center"> My Medium Blog Posts </h3>
 
 <!-- blog starts -->
-<a href="https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138">
-  <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png"> <br> DB Legends, BigQuery, and Trees </img>
-</a>
-  <hr>
-<a href="https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0">
-  <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg"> <br> Heart for Dart </img>
-</a>
-  <hr>
-<a href="https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc">
-  <img alt="Medium Post" src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg"> <br> Raising a Developer </img>
-</a>
-  <hr>
-<a href="https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4">
-  <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png"> <br> Understanding Web Storage </img>
-</a>
-  <hr>
-<a href="https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7">
-  <img alt="Medium Post" src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png"> <br> Pass the Aux! </img>
-</a>
+<table><tr>
+  <td>
+    <h3>DB Legends, BigQuery, and Trees</h3>
+    <p>Being a software developer I sometimes find myself feeling a lot like Goku . . .</p>
+    <a href="https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138">:arrow_forward: Read more</a>
+  </td>
+  <td>
+    <img src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" alt="Banner" width="400px">
+  </td>
+</tr>
 
+<tr>
+  <td>
+    <h3>Heart for Dart</h3>
+    <p>There are many people who have a hard time adapting to change . . .</p>
+    <a href="https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0">:arrow_forward: Read more</a>
+  </td>
+  <td>
+    <img src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" alt="Banner" width="400px">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <h3>Raising a Developer</h3>
+    <p>WARNING: This article contains code that really smells. Viewer and developer discretion is advised.</p>
+    <a href="https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc">:arrow_forward: Read more</a>
+  </td>
+  <td>
+    <img src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" alt="Banner" width="400px">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <h3>Understanding Web Storage</h3>
+    <p>I am sure we all have heard this line at least once in recent years: “This is the age of information!” . . .</p>
+    <a href="https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4">:arrow_forward: Read more</a>
+  </td>
+  <td>
+    <img src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" alt="Banner" width="400px">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <h3>Pass the Aux!</h3>
+    <p>“All children are artists. The problem is how to remain an artist once he grows up.” ⎯ Pablo Picasso</p>
+    <a href="https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7">:arrow_forward: Read more</a>
+  </td>
+  <td>
+    <img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" alt="Banner" width="400px">
+  </td>
+</tr>
+
+</table>
 <!-- blog ends -->
 
 </td>
