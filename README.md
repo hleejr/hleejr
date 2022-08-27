@@ -37,14 +37,14 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 ### Work Experience
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1454959243/fvcgythecsqtqdgnoqfn.jpg"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="HtH" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1454959243/fvcgythecsqtqdgnoqfn.jpg"/>](https://www.hackthehood.org/)
 
 **Lead Technical Instructor / Curriculum Designer** \
 [**HtH**](https://www.hackthehood.org/) • Full-Time \
 Languages & Technologies: `Python`, `Scikit-Learn`, `Django`, `Javascript`, `Jupyter Notebook`, `SQL` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true](https://shamrck.com/wp-content/uploads/2020/09/Shamrck-Linear-White.png.webp)"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="Shamrck" src="https://shamrck.com/wp-content/uploads/2020/09/Shamrck-Linear-White.png.webp"/>](https://shamrck.com/)
 
 **Junior Data Scientist (SRE)** \
 [**Shamrck**](https://shamrck.com/) • Part-Time \
