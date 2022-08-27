@@ -198,8 +198,6 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
 | ------------ | ----------- |
 | Sports Data & Artificial Intelligence: Predicting Hall of Famers | Coming Soon!
 
-<hr>
-
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
      
 [linktree]: https://linktr.ee/knowbodyknows
