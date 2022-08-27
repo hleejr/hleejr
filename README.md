@@ -100,7 +100,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   </td>
   <td>
     <p align="center">
-      <img height=100 src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" alt="Banner" />
+      <img height=150 src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" alt="Banner" />
     </p>
   </td>
 </tr>
