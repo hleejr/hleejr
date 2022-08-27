@@ -99,7 +99,9 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
     <a href="https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" alt="Banner" />
+    <p align="center">
+      <img src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" alt="Banner" />
+    </p>
   </td>
 </tr>
 
@@ -110,7 +112,9 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
     <a href="https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" alt="Banner" width="400px">
+    <p align="center">
+      <img src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" alt="Banner" />
+    </p>
   </td>
 </tr>
 
@@ -121,7 +125,9 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
     <a href="https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" alt="Banner" width="400px">
+    <p align="center">
+      <img src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" alt="Banner" />
+    </p>
   </td>
 </tr>
 
@@ -132,7 +138,9 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
     <a href="https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" alt="Banner" width="400px">
+    <p align="center">
+      <img src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" alt="Banner" />
+    </p>
   </td>
 </tr>
 
@@ -143,7 +151,9 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
     <a href="https://medium.com/@henry.bowe.jr/domain-philanthropy-fc5390bbbad7">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" alt="Banner" width="400px">
+    <p align="center">
+      <img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" alt="Banner" width="400px">
+    </p>
   </td>
 </tr>
 
