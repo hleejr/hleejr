@@ -99,7 +99,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
     <a href="https://medium.com/@henry.bowe.jr/db-legends-bigquery-and-trees-603d1bd0138">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" alt="Banner" width="400px">
+    <img src="https://miro.medium.com/fit/c/224/224/1*9AGZPcXMmBFbjOsCTouiGw.png" alt="Banner" />
   </td>
 </tr>
 
