@@ -46,7 +46,7 @@ Languages & Technologies: `Python`, `Scikit-Learn`, `Django`, `Javascript`, `Jup
 
 [<img align="left" height="94px" width="94px" alt="Shamrck" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/aqtluhxfv8pppu1gins3"/>](https://shamrck.com/)
 
-**Junior Data Scientist (SRE)** \
+**Junior Data Scientist** \
 [**Shamrck**](https://shamrck.com/) • Part-Time \
 Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker`, `Firebase`, `AWS`, `Google Cloud AI Tools` \
 <br/>
