@@ -113,7 +113,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   </td>
   <td>
     <p align="center">
-      <img src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" alt="Banner" />
+      <img height=150 src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" alt="Banner" />
     </p>
   </td>
 </tr>
@@ -126,7 +126,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   </td>
   <td>
     <p align="center">
-      <img src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" alt="Banner" />
+      <img height=150 src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" alt="Banner" />
     </p>
   </td>
 </tr>
@@ -139,7 +139,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   </td>
   <td>
     <p align="center">
-      <img src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" alt="Banner" />
+      <img height=150 src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" alt="Banner" />
     </p>
   </td>
 </tr>
@@ -152,7 +152,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
   </td>
   <td>
     <p align="center">
-      <img src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" alt="Banner" width="400px">
+      <img height=150 src="https://miro.medium.com/fit/c/224/224/1*EUT0sBYUopYJjpaSx-Vgqg.png" alt="Banner" width="400px">
     </p>
   </td>
 </tr>
