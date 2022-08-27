@@ -31,6 +31,7 @@ fields_of_interests: ["Sports Analytics", "Sports Statistics", "Data Science", "
 currently_learning: ["SQL"]
 hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime", "Reading Manga"]
 ```
+<hr>
 
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools I've Used 💻</h2>
@@ -88,6 +89,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 <p align="center">
   <img height=300 width=100% src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
+<hr>
 
 <!-- Published Blog Post -->
 <h3 align="center"> My Medium Blog Posts </h3>
