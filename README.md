@@ -41,24 +41,14 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 
 **Lead Technical Instructor / Curriculum Designer** \
 [**HtH**](https://www.hackthehood.org/) • Full-Time \
-Languages & Technologies: `Python`, `Javascript`, `Jupyter Notebook`, `SQL`, `Machine Learning` \
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
-
-**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+Languages & Technologies: `Python`, `Scikit-Learn`, `Django`, `Javascript`, `Jupyter Notebook`, `SQL` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true](https://shamrck.com/wp-content/uploads/2020/09/Shamrck-Linear-White.png.webp)"/>](https://warpnet.nl/)
 
-**DevOps Engineer** \
-[**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
-<br/>
+**Junior Data Scientist (SRE)** \
+[**Shamrck**](https://shamrck.com/) • Part-Time \
+Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker`, `Firebase`, `AWS`, `Google Cloud AI Tools` \
 <br/>
 
 <!-- Languages and Tools -->
