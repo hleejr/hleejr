@@ -33,6 +33,33 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 ```
 <hr>
 
+<!-- Work Experience
+### Work Experience
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+
+**Senior Site Reliability Engineer (SRE)** \
+[**KPN**](https://www.kpn.com/) • Contract \
+Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
+
+**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
+[**Warpnet**](https://warpnet.nl/) • Full-time \
+Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
+Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
+
+**DevOps Engineer** \
+[**DUO**](https://duo.nl/) • Contract \
+Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+<br/>
+<br/>
+
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools I've Used 💻</h2>
 <p align="left"> 
