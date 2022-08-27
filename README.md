@@ -127,19 +127,6 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
 
 <tr>
   <td>
-    <h3>Heart for Dart</h3>
-    <p>There are many people who have a hard time adapting to change . . .</p>
-    <a href="https://medium.com/@henry.bowe.jr/heart-for-dart-170339cc4cc0">:arrow_forward: Read more</a>
-  </td>
-  <td>
-    <p align="center">
-      <img height=150 src="https://miro.medium.com/fit/c/224/224/1*1vDu57yFuzoYjvv74wjlig.jpeg" alt="Banner" />
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
     <h3>Raising a Developer</h3>
     <p>WARNING: This article contains code that really smells. Viewer and developer discretion is advised.</p>
     <a href="https://medium.com/@henry.bowe.jr/raising-a-developer-82a83d934dc">:arrow_forward: Read more</a>
@@ -147,19 +134,6 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
   <td>
     <p align="center">
       <img height=150 src="https://miro.medium.com/max/480/1*WhhfONG-5fx-WgB8lMNGTw.jpeg" alt="Banner" />
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <h3>Understanding Web Storage</h3>
-    <p>I am sure we all have heard this line at least once in recent years: “This is the age of information!” . . .</p>
-    <a href="https://medium.com/@henry.bowe.jr/understanding-web-storage-f6a96a0053f4">:arrow_forward: Read more</a>
-  </td>
-  <td>
-    <p align="center">
-      <img height=150 src="https://miro.medium.com/fit/c/224/224/1*Ffoy2P9pX_GLyXWaPu210A.png" alt="Banner" />
     </p>
   </td>
 </tr>
