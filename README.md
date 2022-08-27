@@ -44,7 +44,7 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 Languages & Technologies: `Python`, `Scikit-Learn`, `Django`, `Javascript`, `Jupyter Notebook`, `SQL` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Shamrck" src="https://shamrck.com/wp-content/uploads/2020/09/Shamrck-Linear-White.png.webp"/>](https://shamrck.com/)
+[<img align="left" height="94px" width="94px" alt="Shamrck" src="https://shamrck.com/wp-content/uploads/2020/09/Shamrck-Linear-White.png"/>](https://shamrck.com/)
 
 **Junior Data Scientist (SRE)** \
 [**Shamrck**](https://shamrck.com/) • Part-Time \
