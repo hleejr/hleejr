@@ -35,12 +35,14 @@ hobbies: ["Playing Basketball", "Making Music", "Casual Gaming", "Watching Anime
 
 <!-- Work Experience -->
 ### Work Experience
+<br/>
+<br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1454959243/fvcgythecsqtqdgnoqfn.jpg"/>](https://www.kpn.com/)
 
-**Senior Site Reliability Engineer (SRE)** \
-[**KPN**](https://www.kpn.com/) • Contract \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+**Lead Technical Instructor / Curriculum Designer** \
+[**HtH**](https://www.hackthehood.org/) • Full-Time \
+Languages & Technologies: `Python`, `Javascript`, `Jupyter Notebook`, `SQL`, `Machine Learning` \
 <br/>
 <br/>
 
