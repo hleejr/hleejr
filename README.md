@@ -101,6 +101,15 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="60" height="45"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="40" height="40"/>
+  </a>
+  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> 
+      <img src="https://linuxteaching.com/storage/img/images_4/beautiful_soup_python.png" alt="Beautiful Soup" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png" alt="Pandas" width="40" height="40"/>
+  </a>  
 </p>
 
 <!-- Funny GIF -->
