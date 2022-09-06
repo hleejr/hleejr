@@ -177,7 +177,7 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
 
 <h3 align="center"> Open Source Projects </h3>
      
-| Project Name | Description |
+| <div style="width:290px">Project Name</div> | Description |
 | ------------ | ----------- |
 | [Sports Data & Artificial Intelligence: Predicting Hall of Famers](https://github.com/hleejr/hall-of-fame-ai) | One of the greatest debates that happens among sports fan is whether or not their favorite players made enough of an impression on their respective leagues to be considered being inducted into the hall of fame. There are many notable athletes who have been inducted to the halls of their respective sports: Michael Jordan, Dawn Staley, Hank Aaron, Tamika Catchings, and Wayne Gretsky just to name a few. However, there is an almost unprecedented number of super talented athletes who have yet to be inducted into the hall. This does not mean that they will not in the future, as there are new inductions every year. However, what determines when you get inducted, if you are getting an induction at all? The objective of this research experiment is to identify which factors most heavily influence whether or not an athlete will be inducted into the hall of fame in their respective league. The goal is to use statistical analysis to identify the most influential determining factors and ultimately use machine learning algorithms to predict a percentage of how likely players are to be inducted into their league's hall of fame.
 
