@@ -109,7 +109,10 @@ Languages & Technologies: `Python`, `Pandas`, `Jupyter Notebook`, `SQL`, `Docker
   </a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png" alt="Pandas" width="40" height="40"/>
-  </a>  
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> 
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask" width="40" height="40"/>
+  </a> 
 </p>
 
 <!-- Funny GIF -->
